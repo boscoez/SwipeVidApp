@@ -1,4 +1,7 @@
-# Swipe Video App
+<div align="center">
+    <h1>Swipe Video App</h1>
+</div>
+
 
 ## Overview
 This is a swipe-based video app that allows users to easily navigate through video content. 
